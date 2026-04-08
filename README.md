@@ -1,4 +1,4 @@
-# Temel SQL Komutları ve Kullanım Rehberi
+# Temel SQL Komutları (W3Schools)
 
 Bu proje, veritabanı yönetim sistemlerinde en çok kullanılan temel SQL komutlarının ne işe yaradığını ve nasıl kullanıldığını göstermek amacıyla hazırlanmıştır. Örnek senaryolar, bir şirketin `personeller` ve `departmanlar` tabloları üzerinden örneklendirilmiştir.
 
